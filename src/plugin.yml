@@ -1,0 +1,9 @@
+name: vParticles
+author: TheFBI
+version: 0.1
+main: me.thefbi.Main
+description: Is for fun!
+commands:
+  vparticles:
+  setspawnticks:
+  getspawnticks:
